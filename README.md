@@ -1,2 +1,4 @@
-# CDP-ReinforcementTrading-
-Creating a trading bot with the use of reinforcement learning algorithm - Actor-Critic
+# CD Projekt RED - ReinforcementTrading
+
+Creating a RL trading bot with the use of a DQN.
+
